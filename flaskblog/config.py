@@ -9,5 +9,4 @@ class config:
     MAIL_PORT =25
     MAIL_USE_TLS=False
     MAIL_USE_SSL=False
-    MAIL_USERNAME ='nikhilgupta18032000@gmail.com'
-    MAIL_PASSWORD ='nickrick18'
+    
